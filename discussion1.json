@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Abhishek Pandey",
+      "role": "Test Targeting Associate"
+    },
+    {
+      "name": "Dwaipayan Das",
+      "role": "Interviewer"
+    },
+    {
+      "name": "Roshan Sharma",
+      "role": "Interviewee"
+    }
+  ],
+  "interview_details": {
+    "start_time": "Wed, 13 Mar 2024 16:34:54 GMT+05:30",
+    "location": "Bankura, West Bengal, India",
+    "purpose": "Python Automation QA Lead Interview"
+  },
+  "topics_discussed": [
+    "Core concepts of Python",
+    "Object-oriented concepts",
+    "Functional and automation skill set",
+    "Testing methodologies",
+    "Test plans and scenario creation",
+    "Testing parameters",
+    "Entry and exit criteria"
+  ]
+}

@@ -1,0 +1,25 @@
+pipeline {
+    agent any
+
+    environment {
+        // Set a general environment variable
+        MY_ENV_VAR = 'SomeValue'
+    }
+
+    stages {
+        stage('Preparation') {
+            steps {
+                script {
+                    // Bind Jenkins credentials to environment variables
+                    withCredentials([usernamePassword(credentialsId: 'my-cred-id', usernameVariable: 'TEST_USER', passwordVariable: 'TEST_PASSWORD')]) {
+                        // all steps here have access to TEST_USER, TEST_PASSWORD, and MY_ENV_VAR
+                        bat 'echo Using environment variable: $MY_ENV_VAR'
+                        bat 'echo Using credential user: $TEST_USER'
+                        // Running pytest where it uses these environment variables
+                        bat 'pytest -v'
+                    }
+                }
+            }
+        }
+    }
+}

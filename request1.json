@@ -1,0 +1,45 @@
+{
+  'mtlsHecTopographyService.post.1.json': {
+    'devices': [
+      {
+        'deviceId': 'hecDemo001DeviceId',
+        'agentVersion': 'v2',
+        'deviceName': 'hecDeviceName0510',
+        'tenantName': 'hecTenantName0510',
+        'parentNodeId': '4a2b6d9a-8464-4f5b-ae45-ebc1a34a48a7',
+        'online': True,
+        'networkTopographyEntries': [
+          {
+            'adapter': 'adapter1',
+            'address': 'string',
+            'networkInterface': 'string'
+          }
+        ],
+        'networkCapabilityEntries': [
+          {
+            'adapter': 'string',
+            'networkInterface': 'string'
+          }
+        ],
+        'providedFunctionality': [
+          'b56d0b42-3c84-4875-b696-3d14f7425eed',
+          'b56d0b42-3c84-4875-b696-3d14f7425eef'
+        ],
+        'runningHub': True,
+        'capableOfRunningHub': True,
+        'leaderPriorityWeight': 0,
+        'hubPort': 0,
+        'os': 'string',
+        'platform': 'string',
+        'attributes': {
+          'additionalProp1': 'string',
+          'additionalProp2': 'string',
+          'additionalProp3': 'string'
+        },
+        'createdOn': '2023-12-07T16:47:50Z',
+        'updatedOn': '2023-12-07T16:47:50Z'
+      }
+    ]
+  },
+  'topographyfile.get.json': {}
+}
