@@ -1,0 +1,497 @@
+{
+  "participants": [
+    {
+      "name": "Abhishek Pandey",
+      "role": "Test Targeting Associate"
+    },
+    {
+      "name": "Dwaipayan Das",
+      "role": "Interviewer"
+    },
+    {
+      "name": "Roshan Sharma",
+      "role": "Interviewee"
+    }
+  ],
+  "interview_details": {
+    "start_time": "Wed, 13 Mar 2024 16:34:54 GMT+05:30",
+    "location": "Bankura, West Bengal, India",
+    "purpose": "Python Automation QA Lead Interview"
+  },
+  "topics_discussed": [
+    "Core concepts of Python",
+    "Object-oriented concepts",
+    "Functional and automation skill set",
+    "Testing methodologies",
+    "Test plans and scenario creation",
+    "Testing parameters",
+    "Entry and exit criteria"
+  ],
+  "role_description": {
+    "title": "Automation Team Lead",
+    "description": "This role involves leading the automation efforts within the team."
+  },
+  "responsibilities": [
+    {
+      "description": "Understand core concepts of automation."
+    },
+    {
+      "description": "Exposure to multiple Python test automation frameworks."
+    },
+    {
+      "description": "Assist in creating test automation framework from scratch if needed."
+    },
+    {
+      "description": "Scale an existing automation framework."
+    },
+    {
+      "description": "Integrate test automation framework with build automation tools (e.g., Jenkins, Github actions)."
+    },
+    {
+      "description": "Run test automation suites independently."
+    },
+    {
+      "description": "Analyze and debug test failures."
+    },
+    {
+      "description": "Understand CI/CD processes."
+    },
+    {
+      "description": "Review pull requests (PRs) from team members."
+    },
+    {
+      "description": "Provide appropriate comments and merge code."
+    },
+    {
+      "description": "Adhere to clean coding standards."
+    }
+  ],
+  "application_types": [
+    {
+      "type": "Front-end UI automation"
+    },
+    {
+      "type": "Back-end and API automation"
+    }
+  ],
+  "hands_on_percentage": {
+    "min": 60,
+    "max": 70
+  },
+  "discussion1": [
+    {
+      "timestamp": "00:04:54",
+      "speaker": "Roshan Sharma",
+      "role": "Automation Lead",
+      "company": "Latent Technologies",
+      "project": "Ppdm",
+      "description": "Working in a storage domain and backup data backup solution project."
+    },
+    {
+      "timestamp": "00:05:23",
+      "speaker": "Roshan Sharma",
+      "role": "Automation Lead",
+      "team": "System Integration Testing (SAT)",
+      "description": "Handling critical workload and responsible for end-to-end functional testing for regression."
+    },
+    {
+      "timestamp": "00:05:49",
+      "speaker": "Roshan Sharma",
+      "role": "Automation Lead",
+      "responsibilities": [
+        "Overall release planning",
+        "Test plan preparation",
+        "Test studies",
+        "Defect management",
+        "Participating in scrum calls"
+      ]
+    },
+    {
+      "timestamp": "00:06:16",
+      "speaker": "Roshan Sharma",
+      "role": "Senior QA",
+      "company": "Jorient",
+      "project": "Verita",
+      "description": "Working on a data backup solution project."
+    },
+    {
+      "timestamp": "00:06:34",
+      "speaker": "Roshan Sharma",
+      "role": "Senior QA",
+      "responsibilities": [
+        "API automation using Python Unit Test framework",
+        "Prior experience with the privacy starter (data governance and compliance)"
+      ]
+    }
+  ],
+  "discussion2": {
+    "timestamp": "2024-03-13 16:52:11 GMT+05:30",
+    "participants": [
+      {
+        "name": "Abhishek Pandey",
+        "role": "Requirement Provider"
+      },
+      {
+        "name": "Roshan Sharma",
+        "role": "Code Reviewer"
+      }
+    ],
+    "requirements": [
+      {
+        "requirement": "Create functions to calculate area for different shapes",
+        "shapes": [
+          {
+            "shape": "Rectangle",
+            "formula": "Area = length × width"
+          },
+          {
+            "shape": "Square",
+            "formula": "Area = side × side"
+          },
+          {
+            "shape": "Sphere",
+            "formula": "No area (only radius)"
+          },
+          {
+            "shape": "Circle",
+            "formula": "Area = π × radius²"
+          }
+        ]
+      },
+      {
+        "requirement": "Consider future similar shapes (e.g., octagon, pentagon)",
+        "notes": "Shapes may have both area and radius"
+      }
+    ],
+    "code_review": {
+      "code_correct": true,
+      "feedback": "No changes needed; adheres to requirements",
+      "explanation": "The code handles the specified shapes correctly and considers future similar shapes."
+    }
+  },
+  "discussion3": [
+    {
+      "timestamp": "00:19:58",
+      "speaker": "Roshan Sharma",
+      "message": "Yeah."
+    },
+    {
+      "timestamp": "00:20:00",
+      "speaker": "Abhishek Pandey",
+      "message": "What do you understand by multiple inheritance?"
+    },
+    {
+      "timestamp": "00:20:09",
+      "speaker": "Roshan Sharma",
+      "message": "So one parent loss. Every child, then, that child has a different the parent of the same. So it's like hierarchically."
+    },
+    {
+      "timestamp": "00:20:15",
+      "speaker": "Roshan Sharma",
+      "message": "It works like an Mro."
+    },
+    {
+      "timestamp": "00:20:20",
+      "speaker": "Roshan Sharma",
+      "message": "Actually, I don't know the hoodlum, but it's like left to right? So yeah, first."
+    },
+    {
+      "timestamp": "00:20:31",
+      "speaker": "Abhishek Pandey",
+      "message": "So let's see if I have a class here."
+    },
+    {
+      "timestamp": "00:20:35",
+      "speaker": "Abhishek Pandey",
+      "message": "And then I have another class B, which has method one."
+    },
+    {
+      "timestamp": "00:20:41",
+      "speaker": "Roshan Sharma",
+      "message": "Okay."
+    },
+    {
+      "timestamp": "00:20:48",
+      "speaker": "Roshan Sharma",
+      "message": "Create an object of child class C, and you can try to call this method one."
+    },
+    {
+      "timestamp": "00:20:52",
+      "speaker": "Roshan Sharma",
+      "message": "From which class this method one would be called?"
+    },
+    {
+      "timestamp": "00:21:01",
+      "speaker": "Roshan Sharma",
+      "message": "So it will first call from Class A method."
+    },
+    {
+      "timestamp": "00:21:13",
+      "speaker": "Roshan Sharma",
+      "message": "If not, then it will go to the next class B, and if that method is present in the class B, then it will execute. So it's from left to right?"
+    },
+    {
+      "timestamp": "00:21:21",
+      "speaker": "Abhishek Pandey",
+      "message": "Okay, yeah. My last question. You know, what is the difference between a class method and a static method?"
+    },
+    {
+      "timestamp": "00:21:28",
+      "speaker": "Roshan Sharma",
+      "message": "Class method is implemented by Cls and static method is a method which is not relative to class. It's a normal method."
+    },
+    {
+      "timestamp": "00:21:36",
+      "speaker": "Roshan Sharma",
+      "message": "Like a function which we can execute without having any kind of class."
+    },
+    {
+      "timestamp": "00:21:53",
+      "speaker": "Abhishek Pandey",
+      "message": "Okay."
+    },
+    {
+      "timestamp": "00:21:54",
+      "speaker": "Abhishek Pandey",
+      "message": "Okay, no problem."
+    },
+    {
+      "timestamp": "00:21:54",
+      "speaker": "Abhishek Pandey",
+      "message": "Let's talk about some testing concepts."
+    },
+    {
+      "timestamp": "00:22:16",
+      "speaker": "Abhishek Pandey",
+      "message": "Okay, let's talk something about testing's automation testing strategy."
+    },
+    {
+      "timestamp": "00:22:18",
+      "speaker": "Roshan Sharma",
+      "message": "Yes, sorry for that."
+    },
+    {
+      "timestamp": "00:22:24",
+      "speaker": "Abhishek Pandey",
+      "message": "Okay, let's see. I have a project which has around 1,000 test cases."
+    },
+    {
+      "timestamp": "00:22:35",
+      "speaker": "Abhishek Pandey",
+      "message": "Just housing test cases."
+    },
+    {
+      "timestamp": "00:22:37",
+      "speaker": "Abhishek Pandey",
+      "message": "And as of now there is no automation in place."
+    }
+  ],
+  "discussion4": [
+    {
+      "time": "00:22:43",
+      "speaker": "Abhishek Pandey",
+      "message": "in place. So there is a set of animal. Qb. okay. What they do is they come every day, and then they execute all these 1,000 test cases manually. Okay."
+    },
+    {
+      "time": "00:22:55",
+      "speaker": "Abhishek Pandey",
+      "message": "so this is the problem statement that I have that I have 1,000 test cases. There is no automation in place. So I have 5 Qas will come and run every day, and they execute 200 test cases on a daily basis. These are all regression test cases"
+    },
+    {
+      "time": "00:23:09",
+      "speaker": "Abhishek Pandey",
+      "message": "in their own regression tests. The functionality is already there in production."
+    },
+    {
+      "time": "00:23:13",
+      "speaker": "Abhishek Pandey",
+      "message": "We are trying to execute all these test cases."
+    },
+    {
+      "time": "00:23:16",
+      "speaker": "Abhishek Pandey",
+      "message": "Nobody thought of it"
+    },
+    {
+      "time": "00:23:18",
+      "speaker": "Abhishek Pandey",
+      "message": "is, why not? We automate this 1,000 test cases. So for that, what I've identified is a set of 100 high priority test cases"
+    },
+    {
+      "time": "00:23:28",
+      "speaker": "Abhishek Pandey",
+      "message": "can identify 100 hyper attit. A test comprises of Ui as well as Api tests. Okay. this is the test that I have identified. No."
+    },
+    {
+      "time": "00:23:43",
+      "speaker": "Abhishek Pandey",
+      "message": "I hired you as an automation. Qb, lead. Okay, I want you to define my automation testing"
+    },
+    {
+      "time": "00:23:51",
+      "speaker": "Abhishek Pandey",
+      "message": "strategy. Thank you"
+    }
+  ],
+  "discussion5": [
+    {
+      "timestamp": "00:23:53",
+      "speaker": "Abhishek Pandey",
+      "message": "On the same. So what will be your automation testing strategy? How will you proceed with this? This is the requirement that I have."
+    },
+    {
+      "timestamp": "00:23:59",
+      "speaker": "Abhishek Pandey",
+      "message": "Is the problem statement clear?"
+    },
+    {
+      "timestamp": "00:24:19",
+      "speaker": "Roshan Sharma",
+      "message": "Yeah. So the first step in my testing strategy is to divide the test cases into different categories."
+    },
+    {
+      "timestamp": "00:24:29",
+      "speaker": "Roshan Sharma",
+      "message": "Out of the 1,000 test cases, 100 are the highest priority."
+    },
+    {
+      "timestamp": "00:24:41",
+      "speaker": "Roshan Sharma",
+      "message": "We'll start by creating a plan to execute these 100 critical test cases comprehensively."
+    },
+    {
+      "timestamp": "00:25:04",
+      "speaker": "Roshan Sharma",
+      "message": "If I have a team of 5 QAs, I'll divide them: 2 for UI test cases and 3 for API test cases."
+    },
+    {
+      "timestamp": "00:25:15",
+      "speaker": "Abhishek Pandey",
+      "message": "Okay?"
+    },
+    {
+      "timestamp": "00:25:19",
+      "speaker": "Roshan Sharma",
+      "message": "Additionally, we have 1,000 manual test cases to cover within a week."
+    },
+    {
+      "timestamp": "00:25:26",
+      "speaker": "Roshan Sharma",
+      "message": "We'll prioritize and focus on the 100 critical test cases first."
+    },
+    {
+      "timestamp": "00:25:28",
+      "speaker": "Roshan Sharma",
+      "message": "Don't worry about the remaining 1,000 test cases for now."
+    },
+    {
+      "timestamp": "00:25:45",
+      "speaker": "Abhishek Pandey",
+      "message": "I want you to implement an automation testing strategy. At least these 100 priority test cases should be automated."
+    },
+    {
+      "timestamp": "00:26:01",
+      "speaker": "Abhishek Pandey",
+      "message": "My team doesn't have much information about automation. What value will you add to the team in automating these test cases?"
+    },
+    {
+      "timestamp": "00:26:07",
+      "speaker": "Roshan Sharma",
+      "message": "Certainly. My strategy remains the same. I'll allocate 2 team members for UI testing and 3 for API testing."
+    }
+  ],
+  "discussion6": [
+    {
+      "timestamp": "00:28:56",
+      "speaker": "Abhishek Pandey",
+      "message": "What are the various QA testing matrices that are being followed in your project? Can you provide some examples?"
+    },
+    {
+      "timestamp": "00:28:59",
+      "speaker": "Abhishek Pandey",
+      "message": "testing."
+    },
+    {
+      "timestamp": "00:29:02",
+      "speaker": "Roshan Sharma",
+      "message": "like test plan, test details"
+    },
+    {
+      "timestamp": "00:29:07",
+      "speaker": "Roshan Sharma",
+      "message": "and artifacts documentation."
+    },
+    {
+      "timestamp": "00:29:11",
+      "speaker": "Roshan Sharma",
+      "message": "then bug reports"
+    },
+    {
+      "timestamp": "00:29:19",
+      "speaker": "Roshan Sharma",
+      "message": "which are logged, and then what we do."
+    },
+    {
+      "timestamp": "00:29:20",
+      "speaker": "Roshan Sharma",
+      "message": "RTM (Requirements Traceability Matrix)."
+    },
+    {
+      "timestamp": "00:29:23",
+      "speaker": "Abhishek Pandey",
+      "message": "What is RTM?"
+    },
+    {
+      "timestamp": "00:29:25",
+      "speaker": "Roshan Sharma",
+      "message": "Let me explain. So, what is"
+    },
+    {
+      "timestamp": "00:29:37",
+      "speaker": "Abhishek Pandey",
+      "message": "Test Traceability Matrix is like that for each scenario, for whatever the future scenario is, at least one test case should be there. So that is a mapping of a scenario with the test cases."
+    },
+    {
+      "timestamp": "00:29:44",
+      "speaker": "Abhishek Pandey",
+      "message": "So it is a requirement. That is RTM, right?"
+    },
+    {
+      "timestamp": "00:29:56",
+      "speaker": "Roshan Sharma",
+      "message": "Then, bug reports are there. Also, test plans, test design, and test strategies will be part of any of the artifacts, maybe separate or included in a test plan."
+    }
+  ],
+  "discussion7": [
+    {
+      "timestamp": "00:41:21",
+      "speaker": "Abhishek Pandey",
+      "message": "Once you get onboarded or hired, we'll map you with various clients. Then, there will be a client round, which won't be highly technical. During this discussion, they'll walk you through the project they are working on and discuss the required skill set."
+    },
+    {
+      "timestamp": "00:41:44",
+      "speaker": "Abhishek Pandey",
+      "message": "We have both long-term and short-term projects. We are language-agnostic. At the lead level, we expect someone to be a solution provider. They should have a good understanding of object-related concepts, various design aspects, and be comfortable working directly with clients. Depending on the project, you might work with a team or as an individual contributor."
+    },
+    {
+      "timestamp": "00:42:14",
+      "speaker": "Abhishek Pandey",
+      "message": "For example, you might need to create a proof of concept (PoC) by yourself, build a framework, and ensure it works. Alternatively, you could be part of a team that needs organization and support."
+    },
+    {
+      "timestamp": "00:42:29",
+      "speaker": "Abhishek Pandey",
+      "message": "Currently, we have a shortage of Python resources for E. Pam. Hence, we are actively building our Python team. More client details will be shared once you clear this round."
+    },
+    {
+      "timestamp": "00:42:45",
+      "speaker": "Roshan Sharma",
+      "message": "Sure, sure. And Google too."
+    }
+  ]
+}
+
+
+
+
+

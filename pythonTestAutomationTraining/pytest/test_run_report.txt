@@ -1,0 +1,9 @@
+Test Run Summary:
+Total tests executed: 1
+Total tests passed: 1
+Total tests failed: 0
+Total tests skipped: 0
+Test run started at: 2024-12-18 13:17:49.229947
+Test run finished at: 2024-12-18 13:17:52.269729
+Total duration: 3.04 seconds
+Exit status: 0

@@ -1,0 +1,11 @@
+{
+  "userId": "ac5b7aef-2576-47af-a3f7-5d1bc35fbef0",
+  "deviceId": "hecDemo000DeviceId",
+  "clientId": "hecDemo000ClientId",
+  "clientSignature": "3045022100c2b1c4d26ec054af81790d9fa75fc5c0d8f485ba02d758560e8aad1ab78fcbac02205d799c519b9b0349de843a64c8a78f2febdbe99da7ec4e045067e9bb898c22bf",
+  "clientTimeStamp": "2023-12-07T08:23:40.806260Z",
+  "clientPublicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEfTqugUJuxBFBF1XcJPj7mYhcsuTKCH+Yo5nXJzqwsYNalulBuKxXv4UsPdpDTBCVwgU/4nYT+U3JvkObD6o+ow==",
+  "associationType": "ACTUAL",
+  "clientAppId": "clientAppId987345",
+  "csr": "-----BEGIN CERTIFICATE REQUEST-----\nMIIBCTCBkAIBADARMQ8wDQYDVQQKDAZMZW5vdm8wdjAQBgcqhkjOPQIBBgUrgQQA\nIgNiAASXSvmUQt3euC2H4vxmSFtiEgdU969/AFJwhAZ1/vMbVWWNPrg5ddAC8bqW\nlYyFLPoI4ydpgHt5DtVkLPrDmgheiqUjmNb+JThghk45vrSoU79nwvT39q74luDw\nEVFgo8+gADAKBggqhkjOPQQDAgNoADBlAjBFek7fjo16G9QZRFnvryWvTmWvs8Mt\nxFT2/5G6IsxMB9y4TcU7O7vUoBmuhHyC3fQCMQCKvtQVUzdGcOBUEE4ulnXwdEI0\n6Cu1TMOw9TgfDwfnJW9yomImOiXmjYDFJu6yw3I=\n-----END CERTIFICATE REQUEST-----"
+}
